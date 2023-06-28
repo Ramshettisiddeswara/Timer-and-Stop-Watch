@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: aqua;
+  }
+  
+  h1 {
+    margin-top: 40px;
+  }
+  
+  #timer, #stopwatch {
+    margin-top: 30px;
+  }
+  
+  #timerDisplay, #stopwatchDisplay {
+    font-size: 40px;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    margin: 5px;
+  }
+  
